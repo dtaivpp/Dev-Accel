@@ -6,7 +6,7 @@
     '[^{:datomic/tag-recursive true}
       User [
         ^{:type String      } username 
-        ^{:type DateTime    } created-on 
+        ^{:type DateTime    } created-on
         ^{:type String      } github-name
         ^{:type String      } github-email
         ^{:type String  
