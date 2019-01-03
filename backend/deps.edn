@@ -1,0 +1,2 @@
+{:deps {:hodur/engine         {:mvn/version "0.1.5"}
+        :hodur/datomic-schema {:mvn/version "0.1.0"}}}
